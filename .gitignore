@@ -11,6 +11,6 @@
 # Emacs backup files
 *~
 
-# MacOS DS_Store
+# MacOS DS_Store custom attributes file
 .DS_Store
 .ds_store
